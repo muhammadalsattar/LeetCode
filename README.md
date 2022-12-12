@@ -1,3 +1,3 @@
 # LeetCode
 
-#### This repository lists my solution for LeetCode problems
+### This repository lists my solutions for LeetCode problems
